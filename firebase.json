@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist\\just-my-bikes",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
